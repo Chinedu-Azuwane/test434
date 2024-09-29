@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 29 Sep 2024 21:31:53 at https://old.wheelofnames.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://old.wheelofnames.com/ -O1 "C:\Users\hp\Documents\httrack\Themes\heel123" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:31:55	Warning: 	File not parsed, looks like binary: https://old.wheelofnames.com/robots.txt
+21:32:09	Warning: 	Retry after error -4 (No data (connection closed)) at link www.google-analytics.com/analytics.js (from https://old.wheelofnames.com/)
+21:32:10	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/icons/favicon-128x128.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:10	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/icons/favicon-96x96.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:10	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/icons/favicon-32x32.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:10	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/icons/favicon-16x16.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/js/vendor-v309.js (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/js/app-v309.js (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/css/app-v309.css (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/images/logo-dark-background-38.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link www.google-analytics.com/analytics.js (from https://old.wheelofnames.com/)
+21:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/icons/favicon-128x128.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/icons/favicon-96x96.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/icons/favicon-32x32.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:12	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/icons/favicon-16x16.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:12	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/js/vendor-v309.js (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:12	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/js/app-v309.js (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:13	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/css/app-v309.css (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:13	Warning: 	Retry after error -4 (No data (connection closed)) at link wheelofnames.com/images/logo-dark-background-38.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link wheelofnames.com/icons/favicon-128x128.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link wheelofnames.com/icons/favicon-96x96.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link wheelofnames.com/icons/favicon-32x32.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link wheelofnames.com/icons/favicon-16x16.png (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link wheelofnames.com/js/vendor-v309.js (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link wheelofnames.com/js/app-v309.js (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link wheelofnames.com/css/app-v309.css (from https://wheelofnames.com/images/fb-screenshot.png)
+21:32:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link wheelofnames.com/images/logo-dark-background-38.png (from https://wheelofnames.com/images/fb-screenshot.png)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 41 links scanned, 14 files written (1541221 bytes overall) [433359 bytes received at 20636 bytes/sec], 1480375 bytes transferred using HTTP compression in 12 files, ratio 23%, 1.2 requests per connection
+(8 errors, 19 warnings, 0 messages)
